@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Georg1703
 - 👀 I’m interested in python programming
-- 🌱 I’m currently learning flask, asyncio, postgresql
+- 🌱 I’m currently learning asyncio, ci/cd
 - 📫 How to reach me linkedin.com/in/mirca-gheorghe-9b550a185
 
 <!---
