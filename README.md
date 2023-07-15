@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Georg1703
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning asyncio, ci/cd
-- 📫 How to reach me linkedin.com/in/mirca-gheorghe-9b550a185
+- 👋 Hi, I’m Gheorghe
+- 👀 I'm passionate about programming in general, any direction of it,
+     but I specialized in backend and I'm currently developing in frontend and devops
+- 📫 How to reach me linkedin.com/in/gheorghe-mirca-9b550a185
 
 <!---
 Georg1703/Georg1703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
